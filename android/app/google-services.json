@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793847231218",
+    "project_id": "fir-iot-6091b",
+    "storage_bucket": "fir-iot-6091b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793847231218:android:a2b2ac8d3513d87f9c566b",
+        "android_client_info": {
+          "package_name": "com.example.smart_light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793847231218-49l3tda4ke1l7mvo1m04pk6cq8al3aef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ZoV76nTJwubV8uLGx8_prp69SQRdRZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793847231218-49l3tda4ke1l7mvo1m04pk6cq8al3aef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
